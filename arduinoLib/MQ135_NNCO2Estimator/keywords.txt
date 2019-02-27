@@ -1,0 +1,7 @@
+MQ135_NNCO2Estimator	KEYWORD1
+update	KEYWORD2
+average	KEYWORD2
+estimate	KEYWORD2
+adc	KEYWORD2
+temperature	KEYWORD2
+humidity	KEYWORD2
